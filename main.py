@@ -5,8 +5,8 @@ from datetime import datetime
 from keep_alive import keep_alive
 
 # بيانات Telegram
-TELEGRAM_BOT_TOKEN = "8086981481:AAFNOPkMrKasjIWSUtvIWKt2vSLxu6rO-o8"
-TELEGRAM_CHAT_ID = "5927295954"
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 
 # الأزواج التي سيتم تحليلها (20 زوج)
 TRADING_PAIRS = [
